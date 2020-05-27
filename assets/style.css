@@ -1,9 +1,41 @@
 .main-pic{
     height: 500px;
-    background-color: tomato;
+    background-image: linear-gradient(to right, #202ea7, rgb(12, 58, 88));
+}
+
+.header_me{
+    background-color: rgb(29, 25, 25);
+    padding-top: 08px;
+    height: 50px;
+}
+
+.header_me h1{
+
+    color: rgb(219, 219, 219);
+    font-weight: 500;
+    font-family: 'poppins';
 }
 
 .logo{
-    font-family: 'poppins';
-    font-size: 2em;
+    font-family: 'roboto';
+    font-weight: 300;
+    font-size: 1.6em;
+    padding-left: 0.5em;
+    color: darkslategray;
+}
+
+.entrance_text{
+    font-family: 'Poppins';
+    color:white;
+
+}
+
+.text-light{
+    font-weight: 100;
+}
+
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+
 }
