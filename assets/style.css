@@ -39,3 +39,15 @@
     margin-left: 0px;
 
 }
+
+.prob-1{
+    background-image: linear-gradient(to right, #202ea7, rgb(12, 58, 88));
+
+}
+
+.prob-1 h3{
+    color:white;
+    font-weight: 300;
+    padding-top: 03em;
+    padding-bottom: 03em;
+}
