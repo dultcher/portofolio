@@ -51,3 +51,8 @@
     padding-top: 03em;
     padding-bottom: 03em;
 }
+
+
+.footer{
+    background-image: linear-gradient(to right, #202ea7, rgb(12, 58, 88));
+}
