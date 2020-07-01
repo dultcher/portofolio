@@ -1,3 +1,26 @@
+ @media(max-width:500px){
+     span.greeting{
+         font-size: 2em;
+     }
+
+     h2.myname{
+         font-size: 2.5em;
+     }
+
+     h2.myentities{
+        font-size: 1.4em;
+    }
+
+    .First-Step{
+        display: none;
+    }
+
+    .whoiam{
+        width: 350px;
+        font-size: 3em;
+    }
+ }
+
 .main-pic{
     height: 500px;
     background-image: linear-gradient(to right, #202ea7, rgb(12, 58, 88));
@@ -55,4 +78,8 @@
 
 .footer{
     background-image: linear-gradient(to right, #202ea7, rgb(12, 58, 88));
+}
+
+.row{
+    margin-left: -10px !important;
 }
