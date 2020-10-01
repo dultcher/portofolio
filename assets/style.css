@@ -1,3 +1,8 @@
+ *{
+    
+ }
+
+ 
  @media(max-width:500px){
      span.greeting{
          font-size: 2em;
@@ -82,4 +87,8 @@
 
 .row{
     margin-left: -10px !important;
+}
+
+h6.skills{
+    font-weight: 300px;
 }
