@@ -1,3 +1,8 @@
+ *{
+    
+ }
+
+ 
  @media(max-width:500px){
      span.greeting{
          font-size: 2em;
@@ -18,6 +23,12 @@
     .whoiam{
         width: 350px;
         font-size: 3em;
+    }
+ }
+
+ @media(min-width:1366px){
+    #skill-one{
+        padding-left: 20%;
     }
  }
 
@@ -68,11 +79,22 @@
 
 }
 
+.prob-2{
+    background-image: linear-gradient(to right, #202ea7, rgb(12, 58, 88));
+
+}
+
+.prob-2 h3{
+    color:white;
+    font-weight: 300;
+}
+
+
 .prob-1 h3{
     color:white;
     font-weight: 300;
     padding-top: 03em;
-    padding-bottom: 03em;
+    
 }
 
 
@@ -80,6 +102,45 @@
     background-image: linear-gradient(to right, #202ea7, rgb(12, 58, 88));
 }
 
-.row{
-    margin-left: -10px !important;
+
+
+h6.skills{
+    font-weight: 300px;
+}
+
+.specify-row h4{
+    font-family: 'Poppins';
+}
+
+h6#specify-intro{
+
+    font-family: 'Poppins';
+    color:tomato;
+    margin: 0px;
+}
+
+h4#specify-main{
+
+    font-family: 'Poppins';
+    margin: 0px;
+    
+}
+
+
+
+#bg-specify{
+    background-color: #615e5e;
+    height: 200px;
+    margin-bottom: 200px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+#skill h4{
+    font-size: 1.2em;
+    font-family: 'Poppins';
+}
+
+#skill p{
+    font-size: 0.8em;
 }
